@@ -3,10 +3,10 @@
 
 ## Higher speed group
 
-- Turismos (passenger cars)
-- Motocicletas (Motorcycles)
-- Autocaravanas MMA inferior o igual a 3500kg
-- Pick-up
+1. Turismos (passenger cars)
+2. Motocicletas (Motorcycles)
+3. Autocaravanas MMA inferior o igual a 3500kg
+4. Pick-up
 
 ---
 
@@ -16,9 +16,9 @@
 
 ## Intermediate speed group
 
-- Autobuses
-- Derivados de turismos
-- Vehículos mixtos adaptables
+1. Autobuses
+2. Derivados de turismos
+3. Vehículos mixtos adaptables
 
 ---
 
@@ -28,10 +28,10 @@
 
 ## Lower speed group
 
-- Camiones
-- Tractocamiones
-- Furgonetas
-- Autocaravanas MMA mayor a 3500kg
+1. Camiones
+2. Tractocamiones
+3. Furgonetas
+4. Autocaravanas MMA mayor a 3500kg
 
 ---
 
